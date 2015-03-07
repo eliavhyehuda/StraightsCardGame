@@ -1,0 +1,3 @@
+BONUS FEATURE:
+
+Only those cards that can be played/discarded are clickable
